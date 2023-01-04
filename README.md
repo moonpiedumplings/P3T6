@@ -1,6 +1,6 @@
 ## Agile Manifesto: 
 
-* Automate things when possible, even writing code
+* Automate things when efficient, even writing code
 
 
 
