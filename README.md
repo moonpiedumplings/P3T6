@@ -1,3 +1,9 @@
+## Agile Manifesto: 
+
+* Automate things when possible, even writing code
+
+
+
 ## The Reunion Project
 
 Usage
