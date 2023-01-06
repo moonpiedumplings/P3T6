@@ -1,7 +1,7 @@
 ## Agile Manifesto: 
 
 * Automate things when efficient, even writing code
-* Being adaptable and responding to change instead
+* Being adaptable and responding to chang
 
 
 
