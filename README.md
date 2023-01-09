@@ -2,6 +2,9 @@
 
 * Automate things when efficient, even automating writing code
 * Being adaptable and responding to change
+* Flexibility within roles and synergy between members
+* Emphasis on conformity overy indivisualism
+* Working Software then Customer Consideration
 
 
 
