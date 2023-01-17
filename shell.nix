@@ -6,7 +6,7 @@ pkgs.mkShell {
     pkgs.bundler
   ];
 
-  shellHook = ''
-   bundle exec jekyll serve
-  '';
+  #shellHook = ''
+   #bundle exec jekyll serve
+  #'';
 }
