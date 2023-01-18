@@ -1,4 +1,4 @@
-## Welcome to Footpage
+## Stories
 > New Stories written every week! 
  
 
